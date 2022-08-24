@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 
-I am Pranav Suriya. Currently pursuing BTech in Electrical 🔌 And Computer 💻 Engineering from Amrita Vishwa Vidyapeetham University. To know more about me, view my portfolio here https://pranavsuriya-sr.github.io/ .
+I am Pranav Suriya. Currently pursuing BTech in Electrical 🔌 And Computer 💻 Engineering from Amrita Vishwa Vidyapeetham University. To know more about me, view my portfolio here https://pranavsuriya-sr.github.io/personalPortfolio/ .
 
 ------
 
