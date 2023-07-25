@@ -35,7 +35,7 @@ Languages that I use include
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width = "40" height = "40"/>&nbsp; &nbsp;
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width = "40" height = "40"/>&nbsp; &nbsp;
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" width = "40" height = "40"/>&nbsp; &nbsp;
-<img src= "https://play-lh.googleusercontent.com/1Ay7ilKxlWzULndGyg6i_QVvjcxFZHVUcLSwVKWP2xCr6JzQXwrBqjgTvJuljItCMR8=w240-h480-rw" width = "40 height = "40"/>
+<img src= "https://repository-images.githubusercontent.com/389429650/7105a193-ad96-45cc-a3be-87cdfda75ebe" width = "40 height = "40"/>
 </p>
 
 Find me on
