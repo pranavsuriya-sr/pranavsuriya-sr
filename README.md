@@ -63,7 +63,7 @@ Find me on
 
 -------
 
-[![](https://visitcount.itsvg.in/api?id=pranavsuriya-sr&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=pranavsuriya-sr&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)-->
 
 ## 📱 Connect with me
 <a href = "https://www.instagram.com/pranavsuriya_sr/">
