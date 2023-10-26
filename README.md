@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ------
 
-![Header](https://github.com/pranavsuriya-sr/pranavsuriya-sr/blob/main/github%20banner.jpg)
+![Header](github_banner.jpg)
 
 ------
 
