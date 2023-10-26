@@ -28,15 +28,12 @@ I am Pranav Suriya. Currently pursuing BTech in Electrical ðŸ”Œ And Computer ðŸ’
 
 ## Active on Open Source Events and Competitive Programming platforms.
 Languages that I use include
-<p>
-<img src= "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width = "40" height = "40"/> &nbsp; &nbsp;
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width = "40" height = "40"/>&nbsp; &nbsp;
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width = "40" height = "40"/>&nbsp; &nbsp;
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width = "40" height = "40"/>&nbsp; &nbsp;
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width = "40" height = "40"/>&nbsp; &nbsp;
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" width = "40" height = "40"/>&nbsp; &nbsp;
-<img src= "https://repository-images.githubusercontent.com/389429650/7105a193-ad96-45cc-a3be-87cdfda75ebe" width = "40 height = "40"/>
-</p>
+<br>
+![Skills](https://skills.thijs.gg/icons?i=cpp,c,py,java,html,css,js,mysql,flutter,kotlin)
+
+## Tools
+
+![My Skills](https://skills.thijs.gg/icons?i=github,git,firebase,androidstudio,arduino,visualstudio,vscode)
 
 Find me on
 <p>
