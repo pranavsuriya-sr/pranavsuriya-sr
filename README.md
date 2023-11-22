@@ -39,6 +39,7 @@ Find me on
 <p>
 <a href="https://www.codechef.com/users/pranav_suriya"><img src= "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" width = "100" height = "40"/></a>&nbsp;&nbsp; <a href="https://www.hackerrank.com/pranavsuriya_sr "><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width = "40" height = "40"/></a> &nbsp;&nbsp;<a href="https://codeforces.com/profile/pranavsuriya-sr"><img src= "https://play-lh.googleusercontent.com/Qzd137yWn--3LdbxSOJaiRRgwHeRe_-BJCoWtk_c-ScPFIBTShXioaC951pXvqsCkQ" width = "40" height = "40"></a> &nbsp; &nbsp;<a href="https://www.freecodecamp.org/fcc4c164af2-f300-4cd5-8951-0fdedf2a2a60 "><img src= "https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" width = "50" height = "40"></a>
 <a href="https://medium.com/@pranavsuriya.sr"><img src="https://miro.medium.com/v2/resize:fit:2400/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" width = "40" height = "40"></a>
+<a href="https://gdsc.community.dev/amrita-school-of-computing-coimbatore/"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/small-logo.png" width = "40" height = "40"></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsuriya-sr&theme=dracula)](https://github.com/pranavsuriya-sr/github-readme-stats)
