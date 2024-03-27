@@ -26,7 +26,6 @@ I am Pranav Suriya. Currently pursuing BTech in Electrical ğŸ”Œ And Computer ğŸ’
 ------
 
 
-## Active on Open Source Events and platforms.
 Languages that I use include
 <br>
 ![Skills](https://skills.thijs.gg/icons?i=cpp,c,py,java,html,css,js,mysql,flutter,kotlin)
