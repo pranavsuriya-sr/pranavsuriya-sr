@@ -26,16 +26,21 @@ I am Pranav Suriya. Currently pursuing BTech in Electrical ðŸ”Œ And Computer ðŸ’
 ------
 
 
-Languages that I use include
-<br>
+## Languages and Tools
+<div align = "center">
+	
 ![Skills](https://skills.thijs.gg/icons?i=cpp,c,py,java,html,css,js,mysql,flutter,kotlin,react)
-
-## Tools
-
+<br>
 ![My Skills](https://skills.thijs.gg/icons?i=github,git,firebase,androidstudio,arduino,visualstudio,vscode)
+</div>
 
+<div align = "center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsuriya-sr&theme=dracula)](https://github.com/pranavsuriya-sr/github-readme-stats)
+
+</div>
+
+
 
 -----
 
@@ -47,9 +52,14 @@ Languages that I use include
 	<a href="https://github.com/pranavsuriya-sr/pranavsuriya-sr">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavsuriya-sr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pranav's GitHub Stats" />
 	</a> -->
-  
+
+<div align = "center">
+
 [![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavsuriya-sr&theme=dracula&show_icons=true)](https://github.com/pranavsuriya-sr/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavsuriya-sr&theme=dracula)](https://git.io/streak-stats)
+
+</div>
+
 [![@srpranavsuriya's Holopin board](https://holopin.me/srpranavsuriya)](https://holopin.io/@srpranavsuriya)
 
 
