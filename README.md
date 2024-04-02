@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ------
 
-![Header](github_banner.jpg)
+![Header](dp.gif)
 
 ------
 
