@@ -18,13 +18,23 @@ Here are some ideas to get you started:
 
 ------
 
-# Hi there 👋
+# 🚀 About
 
 
-I am Pranav Suriya. Currently pursuing BTech in Electrical 🔌 And Computer 💻 Engineering from Amrita Vishwa Vidyapeetham University. To know more about me, view my portfolio here https://pranavsuriya.netlify.app/ .
+### Hi there 👋 
+I am Pranav Suriya. 
 
-------
+🎓 Electrical and Computer Engineering @ Amrita Vishwa Vidyapeetham University <br>
+🔭 I mostly work on **web** and **android development** .<br>
+⚙️ I daily use: `.cpp`, `.js`, `.html`, `.css` and `.py`. <br>
+🔥 Building Project Hack Community @ GDSC ASE, CBE. <br>
+💬 Ask me about anything related to **open source, web, android and IOT** .<br>
+**I** ❤️ **to learn, code, play, and repeat**.
 
+
+To know more about me, view my portfolio here https://pranavsuriya.netlify.app/ .
+
+---------------------------
 
 ## Languages and Tools
 <div align = "center">
