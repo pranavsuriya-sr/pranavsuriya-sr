@@ -51,7 +51,7 @@ Hi there 👋<br>I am Pranav Suriya.<br><br>🎓 Electrical and Computer Enginee
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/PranavSuriya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pranavsuriya_sr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sr-pranavsuriya/) 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsuriya-sr&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsuriya-sr" /></p>
 
 
 
