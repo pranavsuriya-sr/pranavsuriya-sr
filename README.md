@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--![Header](dp.gif)-->
 
 # 💫 About Me:
-Hi there 👋<br>I am Pranav Suriya.<br><br>🎓 Electrical and Computer Engineering @ Amrita Vishwa Vidyapeetham University<br>🔭 I mostly work on web and android development .<br>⚙️ I daily use: `.cpp`, `.js`, `.html`, `.css` and `.py`. <br>🔥 Building Project Hack Community @ <a href = "https://gdscasecbe.github.io/">GDSC ASE, CBE.</a><br>💬 Ask me about anything related to open source, web, android and IOT .<br>I ❤️ to learn, code, play, and repeat.<br><br>To know more about me, view my portfolio here https://pranavsuriya.netlify.app/ .
+Hi there 👋<br>I am Pranav Suriya.<br><br>🎓 Electrical and Computer Engineering @ Amrita Vishwa Vidyapeetham University<br>🔭 I mostly work on web and android development .<br>⚙️ I daily use: `.cpp`, `.js`, `.html`, `.css` and `.py`. <br>🔥 Building Project Hack Community @ <a href = "https://gdscasecbe.github.io/">GDSC ASE, CBE.</a>  @ <a href = "https://eventflow-eventmanager.netlify.app/">EventFlow</a></br>💬 Ask me about anything related to open source, web, android and IOT .<br>I ❤️ to learn, code, play, and repeat.<br><br>To know more about me, view my portfolio here https://pranavsuriya.netlify.app/ .
 
 
 
